@@ -1,6 +1,6 @@
 {
     "name": "moodle/moodle-plugin-opentelemetry",
-    "type": "moodle-plugin",
+    "type": "project",
     "require": {
         "open-telemetry/sdk": "^1.10",
         "google/protobuf": "^4.31",
