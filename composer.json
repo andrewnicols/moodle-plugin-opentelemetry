@@ -1,5 +1,5 @@
 {
-    "name": "moodle/moodle-plugin-opentelemetry",
+    "name": "moodle/moodle-collection-otel",
     "type": "project",
     "require": {
         "open-telemetry/sdk": "^1.10",
